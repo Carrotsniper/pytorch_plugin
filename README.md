@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome Feature Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+Awesome Feature Fusion play-and-plug modules
 
 <!-- image -->
 

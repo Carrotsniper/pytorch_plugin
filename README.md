@@ -4,11 +4,25 @@
 
 <!--lint ignore no-dead-urls-->
 
+<<<<<<< HEAD
+
 # Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+=======
+
+# Awesome Feature Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+>>>>>>> 48b2ad6f1857f8615df20e7b7dee1fcf5523d031
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+Awesome Feature Fusion play-and-plug modules
 
 <!-- image -->
 
@@ -25,6 +39,12 @@ example.
 </div>
 
 <!-- TOC -->
+
+
+
+-content
+
+​	aaa
 
 ## Contents
 
